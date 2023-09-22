@@ -1,0 +1,11 @@
+{
+  "employees": [
+    {"name": "Alice","role": ["doctor"]},
+    {"name": "Bob","role": ["doctor"]},
+    {"name": "Cecilia","role": ["nurse"]},
+    {"name": "David","role": ["patient"]},
+    {"name": "Erica","role": ["patient"]},
+    {"name": "Fred","role": ["patient"]},
+    {"name": "George","role": ["patient"]}
+  ]
+}

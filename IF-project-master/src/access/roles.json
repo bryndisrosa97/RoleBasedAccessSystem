@@ -1,0 +1,7 @@
+{
+  "employee-roles": [
+    {"role": "doctor","permission": ["orderPatientTest", "setPatientTestResult", "getPatientVaccination", "setPatientVaccination", "getPatientTestrecords","setPatientAppointments", "getPatientAppointments"]},
+    {"role": "nurse","permission": ["orderPatientTest", "getPatientVaccination", "setPatientVaccination", "getPatientTestrecords", "setPatientAppointments", "getPatientAppointments"]},
+    {"role": "patient","permission": ["setMyAppointments", "getMyTestrecords", "getMyAppointments", "getMyVaccinations"]}
+  ]
+}
