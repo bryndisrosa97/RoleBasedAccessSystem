@@ -1,5 +1,4 @@
 ### Role Based Access Control
-#### Logic For Security [02244] - Spring 22
 
 This project is a client / server implementation with Java RMI. 
 
@@ -29,17 +28,6 @@ When George gets a new role, this role should be added to his list of roles and 
 
 ---
 
-# To Do List
-
-## The Report
-- [ ] Contribution Section
-    - [ ] State who was responsible for each section
-- [ ] Resources used to perform the work.
-  - Text books, research papers (which approach we took), web material, suggestion from TAs, and discussions made with other groups
-    - [ ] The solution must be based on one of the three approaches (or combined methods)
-      * Denning-Denning
-      * Volpano
-      * Myers
 
 
 ## The Code
